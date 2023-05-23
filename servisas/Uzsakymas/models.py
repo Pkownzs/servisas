@@ -8,4 +8,4 @@ class Uzsakymas(models.Model):
                                 # Automobilis,
                                 # on_delete = models.CASCADE
     )
-    Suma = models.models.IntegerField(_(""))
+    Suma = models.IntegerField()
